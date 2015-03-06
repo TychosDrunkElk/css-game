@@ -1,0 +1,33 @@
+h1 {
+    padding-bottom: 60px;
+}
+
+h2 {
+    margin-top: 0;
+}
+
+.html-code,
+.css-code {
+    width: 45%;
+    display: inline-block;
+}
+
+.controls,
+.output,
+.to-match {
+    display: inline-block;
+    vertical-align: top;
+    padding-right: 50px;
+}
+
+.controls {
+    a {
+        display: block;
+        margin: 10px 0;
+    }
+}
+
+.CodeMirror {
+    border: 1px solid #eee;
+    height: auto;
+}
