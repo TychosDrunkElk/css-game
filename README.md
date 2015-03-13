@@ -16,6 +16,8 @@ To run
    ```
    > grunt
    ```
+4. Open ```localhost:8080``` in modern browser (HTML5 canvas support required)
+
 
 TODOS
 ===
