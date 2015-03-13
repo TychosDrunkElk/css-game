@@ -5,9 +5,17 @@ Playground for css! write css to match mocks.
 
 To run
 ====
-```
-> grunt
-```
+1. Install [grunt](http://gruntjs.com/getting-started)
+2. Install dependencies
+    
+    ```
+    > npm install
+    ```
+3. Run the project
+  
+   ```
+   > grunt
+   ```
 
 TODOS
 ===
